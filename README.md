@@ -1,6 +1,6 @@
 # Concurrent-Programming-in-Java
 
-Coursera assignment projects for personal reference
+*Coursera assignment projects for personal reference
 
 The desired learning outcomes of this course are as follows:
 
